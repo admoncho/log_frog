@@ -1,0 +1,368 @@
+[23-Feb-2017 12:50:06 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[24-Feb-2017 10:18:42 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[24-Feb-2017 10:31:03 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[24-Feb-2017 12:10:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/logistic/public_html/_q/dashboard/loader/load.php:9) in /home/logistic/public_html/_q/resource/library/quantum/init.php on line 3
+[24-Feb-2017 12:10:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logistic/public_html/_q/dashboard/loader/load.php:9) in /home/logistic/public_html/_q/resource/library/quantum/init.php on line 3
+[24-Feb-2017 12:10:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/_q/dashboard/loader/load.php:9) in /home/logistic/public_html/_q/resource/library/quantum/class/Redirect.php on line 15
+[24-Feb-2017 16:08:27 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[28-Feb-2017 12:30:10 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[28-Feb-2017 14:00:55 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[28-Feb-2017 14:01:13 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[28-Feb-2017 14:01:29 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[28-Feb-2017 14:06:49 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[01-Mar-2017 10:18:17 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[01-Mar-2017 10:20:36 America/Chicago] PHP Warning:  rename(/home/logistic/public_html/files/draft-rate-confirmation/220.pdf,/home/logistic/public_html/files/rate-confirmation-3121-3121.pdf): No such file or directory in /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php on line 104
+[01-Mar-2017 10:20:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php:104) in /home/logistic/public_html/_q/resource/library/quantum/class/Redirect.php on line 15
+[01-Mar-2017 10:25:08 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[01-Mar-2017 10:55:27 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[03-Mar-2017 15:54:21 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[06-Mar-2017 08:11:16 America/Chicago] PHP Warning:  rename(/home/logistic/public_html/files/draft-rate-confirmation/280.pdf,/home/logistic/public_html/files/rate-confirmation-3173-3159.pdf): No such file or directory in /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php on line 104
+[06-Mar-2017 08:11:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php:104) in /home/logistic/public_html/_q/resource/library/quantum/class/Redirect.php on line 15
+[06-Mar-2017 09:52:40 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[06-Mar-2017 09:56:39 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[10-Mar-2017 11:02:51 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[10-Mar-2017 11:03:39 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[13-Mar-2017 07:30:38 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[13-Mar-2017 07:33:44 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[13-Mar-2017 07:36:25 America/Chicago] PHP Warning:  rename(/home/logistic/public_html/files/draft-rate-confirmation/375.pdf,/home/logistic/public_html/files/rate-confirmation-3253-3239.pdf): No such file or directory in /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php on line 104
+[13-Mar-2017 07:36:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php:104) in /home/logistic/public_html/_q/resource/library/quantum/class/Redirect.php on line 15
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[15-Mar-2017 14:08:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[16-Mar-2017 14:33:38 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[16-Mar-2017 14:34:01 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[16-Mar-2017 14:35:04 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[16-Mar-2017 14:35:19 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[16-Mar-2017 14:50:28 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[16-Mar-2017 14:52:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[21-Mar-2017 12:19:55 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[21-Mar-2017 12:22:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[21-Mar-2017 12:25:36 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[21-Mar-2017 12:25:47 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[21-Mar-2017 13:10:25 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-Mar-2017 13:44:02 America/Chicago] PHP Warning:  rename(/home/logistic/public_html/files/draft-rate-confirmation/495.pdf,/home/logistic/public_html/files/rate-confirmation-3360-3346.pdf): No such file or directory in /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php on line 104
+[23-Mar-2017 13:44:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php:104) in /home/logistic/public_html/_q/resource/library/quantum/class/Redirect.php on line 15
+[23-Mar-2017 13:48:51 America/Chicago] PHP Warning:  rename(/home/logistic/public_html/files/draft-rate-confirmation/497.pdf,/home/logistic/public_html/files/rate-confirmation-3361-3347.pdf): No such file or directory in /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php on line 104
+[23-Mar-2017 13:48:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php:104) in /home/logistic/public_html/_q/resource/library/quantum/class/Redirect.php on line 15
+[24-Mar-2017 11:37:03 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[24-Mar-2017 11:37:12 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[24-Mar-2017 12:38:32 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[24-Mar-2017 13:25:16 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[24-Mar-2017 14:02:58 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[27-Mar-2017 10:06:47 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[28-Mar-2017 12:01:04 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1130] Host 'localhost' is not allowed to connect to this MySQL server' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/draft-load.php(12): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[28-Mar-2017 13:27:10 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[30-Mar-2017 11:45:32 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[03-Apr-2017 11:02:55 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[03-Apr-2017 11:58:50 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1130] Host 'localhost' is not allowed to connect to this MySQL server' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/draft-load.php(12): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[04-Apr-2017 10:14:54 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[05-Apr-2017 08:13:55 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[05-Apr-2017 08:19:19 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[19-Apr-2017 09:14:25 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[26-Apr-2017 16:14:20 America/Chicago] PHP Warning:  rename(/home/logistic/public_html/files/draft-rate-confirmation/896.pdf,/home/logistic/public_html/files/rate-confirmation-3759-3745.pdf): No such file or directory in /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php on line 104
+[26-Apr-2017 16:14:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php:104) in /home/logistic/public_html/_q/resource/library/quantum/class/Redirect.php on line 15
+[10-May-2017 11:06:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[12-May-2017 03:23:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/logistic/public_html/_q/dashboard/loader/load.php:9) in /home/logistic/public_html/_q/resource/library/quantum/init.php on line 3
+[12-May-2017 03:23:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logistic/public_html/_q/dashboard/loader/load.php:9) in /home/logistic/public_html/_q/resource/library/quantum/init.php on line 3
+[12-May-2017 03:23:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/_q/dashboard/loader/load.php:9) in /home/logistic/public_html/_q/resource/library/quantum/class/Redirect.php on line 15
+[15-May-2017 12:18:26 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:17:21 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:30:08 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:30:22 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:31:24 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:31:29 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:31:37 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:47:10 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:47:35 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:47:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:47:58 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:48:05 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:48:18 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:52:40 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[23-May-2017 10:52:50 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[06-Jun-2017 12:07:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[07-Jun-2017 15:32:47 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/index.php(3): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[07-Jun-2017 15:32:47 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/index.php(3): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[08-Jun-2017 15:14:08 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[12-Jun-2017 06:59:18 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[14-Jun-2017 15:17:30 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/load.php(12): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[14-Jun-2017 15:17:35 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/index.php(3): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[16-Jun-2017 08:52:18 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[16-Jun-2017 10:09:51 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[20-Jun-2017 08:11:47 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/load.php(12): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:13:15 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/load.php(12): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:13:55 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/index.php(3): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:18:59 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/index.php(3): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:19:02 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/index.php(3): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:21:46 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/index.php(3): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:22:35 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/load.php(12): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:23:19 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/load.php(12): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:23:22 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/load.php(12): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:23:59 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/index.php(3): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:25:22 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/load.php(12): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:25:51 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/load.php(12): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:26:25 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/load.php(12): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[20-Jun-2017 08:27:03 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/_q/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/_q/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/_q/dashboard/loader/load.php(12): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/_q/resource/library/quantum/class/DB.php on line 13
+[21-Jun-2017 08:16:18 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[26-Jun-2017 15:37:11 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[27-Jun-2017 09:29:21 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:11:53 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/index.php on line 819
+[29-Jun-2017 20:13:21 America/Chicago] PHP Warning:  rename(/home/logistic/public_html/files/draft-rate-confirmation/1649.pdf,/home/logistic/public_html/files/rate-confirmation-4446-4432.pdf): No such file or directory in /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php on line 104
+[29-Jun-2017 20:13:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/_q/resource/library/quantum/module/loader/controller/loader.php:104) in /home/logistic/public_html/_q/resource/library/quantum/class/Redirect.php on line 15
+[30-Jun-2017 13:26:30 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[05-Jul-2017 07:52:59 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138
+[21-Jul-2017 07:28:37 America/Chicago] PHP Warning:  Division by zero in /home/logistic/public_html/_q/dashboard/loader/load.php on line 138

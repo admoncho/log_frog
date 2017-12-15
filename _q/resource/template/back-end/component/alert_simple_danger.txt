@@ -1,0 +1,2 @@
+<div class="alert alert-danger">
+	<i class="fa fa-times-circle fa-fw fa-lg"></i>

@@ -1,0 +1,4 @@
+[21-Dec-2016 20:07:00 America/Chicago] PHP Parse error:  syntax error, unexpected '' class="hidden"'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/logistic/public_html/_q/dashboard/core/ppg_category.php on line 48
+[21-Dec-2016 20:14:52 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/logistic/public_html/_q/resource/library/quantum/module/core/controller/ppg_category.php on line 62
+[14-Feb-2017 15:35:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logistic/public_html/_q/dashboard/core/ppg.php:7) in /home/logistic/public_html/_q/resource/library/quantum/init.php on line 3
+[14-Feb-2017 15:35:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/_q/dashboard/core/ppg.php:7) in /home/logistic/public_html/_q/resource/library/quantum/class/Redirect.php on line 15

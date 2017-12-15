@@ -1,0 +1,25 @@
+<?php
+
+# quantum_theme
+$quantum_theme = DB::getInstance()->query("SELECT * FROM quantum_theme ORDER BY name ASC");
+$quantum_theme_count = $quantum_theme->count();
+$i = 1;
+
+foreach ($quantum_theme->results() as $quantum_theme_data) {
+	$theme_id[$i] = $quantum_theme_data->id;
+	$theme_name[$i] = $quantum_theme_data->name;
+	$theme_class[$i] = $quantum_theme_data->class;
+	$i++;
+
+	$theme_class_bid[$quantum_theme_data->id] = $quantum_theme_data->class;
+}
+
+# user_settings
+$user_settings = DB::getInstance()->query("SELECT * FROM user_settings WHERE user_id = " . $user->data()->id);
+
+foreach ($user_settings->results() as $user_settings_data) {
+	$settings_email_verification	= $user_settings_data->email_verification;
+	$settings_theme_id 						= $user_settings_data->theme_id;
+	$settings_nav			 						= $user_settings_data->nav;
+	$settings_language_id 				= $user_settings_data->language_id;
+}

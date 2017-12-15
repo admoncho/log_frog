@@ -1,0 +1,2 @@
+<div class="alert alert-warning">
+	<i class="fa fa-warning fa-fw fa-lg"></i>

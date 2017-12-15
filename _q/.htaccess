@@ -1,0 +1,12 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^quantum\.logisticsfrog\.com
+RewriteRule ^(.*)$ http://logisticsfrog\.com/$1 [L]
+
+#RewriteCond %{HTTP_HOST} !^quantum.logisticsfrog\.com$
+#RewriteRule (.*) http://quantum.logisticsfrog.com/$1 [R=301,L]
+
+# Extensionless PHP URLs
+Options +FollowSymLinks
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+RewriteRule ^(([^/]+/)*[^.]+)$ /$1.php [L]

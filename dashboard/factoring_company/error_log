@@ -1,0 +1,27 @@
+[29-Nov-2016 09:31:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/logistic/public_html/_q/dashboard/factoring_company/factoring-company.php:7) in /home/logistic/public_html/_q/resource/library/quantum/init.php on line 3
+[29-Nov-2016 09:31:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logistic/public_html/_q/dashboard/factoring_company/factoring-company.php:7) in /home/logistic/public_html/_q/resource/library/quantum/init.php on line 3
+[29-Nov-2016 09:31:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/_q/dashboard/factoring_company/factoring-company.php:7) in /home/logistic/public_html/_q/resource/library/quantum/class/Redirect.php on line 15
+[31-Aug-2017 11:44:22 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/factoring_company/factoring-company.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[31-Aug-2017 11:44:23 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/factoring_company/factoring-company.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[31-Aug-2017 11:44:32 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/factoring_company/factoring-company.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13

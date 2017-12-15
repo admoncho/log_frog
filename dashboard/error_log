@@ -1,0 +1,275 @@
+[13-Nov-2017 19:15:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'month' (T_STRING) in /home/logistic/public_html/resource/template/back-end/bottom.php on line 51
+[13-Nov-2017 19:16:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'month' (T_STRING), expecting ';' in /home/logistic/public_html/resource/template/back-end/bottom.php on line 62
+[13-Nov-2017 19:16:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'month' (T_STRING) in /home/logistic/public_html/resource/template/back-end/bottom.php on line 51
+[13-Nov-2017 19:16:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'month' (T_STRING) in /home/logistic/public_html/resource/template/back-end/bottom.php on line 51
+[13-Nov-2017 21:55:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/logistic/public_html/dashboard/index.php on line 156
+[14-Nov-2017 10:11:14 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:15:23 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:32:36 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:32:47 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:35:10 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:35:14 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:35:15 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:36:43 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:36:53 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:37:09 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:37:12 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:37:32 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[20-Nov-2017 15:10:41 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[20-Nov-2017 15:10:45 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[20-Nov-2017 15:10:47 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[20-Nov-2017 15:11:54 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[20-Nov-2017 15:11:57 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[21-Nov-2017 13:56:54 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/class/User.php(11): DB::getInstance()
+#3 /home/logistic/public_html/resource/library/quantum/environment_config.php(4): User->__construct()
+#4 /home/logistic/public_html/resource/library/quantum/init.php(62): require('/home/logistic/...')
+#5 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#6 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:24:20 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:24:20 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/class/User.php(11): DB::getInstance()
+#3 /home/logistic/public_html/resource/library/quantum/environment_config.php(4): User->__construct()
+#4 /home/logistic/public_html/resource/library/quantum/init.php(62): require('/home/logistic/...')
+#5 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#6 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:24:26 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:24:40 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/class/User.php(11): DB::getInstance()
+#3 /home/logistic/public_html/resource/library/quantum/environment_config.php(4): User->__construct()
+#4 /home/logistic/public_html/resource/library/quantum/init.php(62): require('/home/logistic/...')
+#5 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#6 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:24:44 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/class/User.php(11): DB::getInstance()
+#3 /home/logistic/public_html/resource/library/quantum/environment_config.php(4): User->__construct()
+#4 /home/logistic/public_html/resource/library/quantum/init.php(62): require('/home/logistic/...')
+#5 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#6 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:24:46 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/class/User.php(11): DB::getInstance()
+#3 /home/logistic/public_html/resource/library/quantum/environment_config.php(4): User->__construct()
+#4 /home/logistic/public_html/resource/library/quantum/init.php(62): require('/home/logistic/...')
+#5 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#6 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:25:07 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/class/User.php(11): DB::getInstance()
+#3 /home/logistic/public_html/resource/library/quantum/environment_config.php(4): User->__construct()
+#4 /home/logistic/public_html/resource/library/quantum/init.php(62): require('/home/logistic/...')
+#5 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#6 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:25:44 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/class/User.php(11): DB::getInstance()
+#3 /home/logistic/public_html/resource/library/quantum/environment_config.php(4): User->__construct()
+#4 /home/logistic/public_html/resource/library/quantum/init.php(62): require('/home/logistic/...')
+#5 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#6 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:25:50 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/class/User.php(11): DB::getInstance()
+#3 /home/logistic/public_html/resource/library/quantum/environment_config.php(4): User->__construct()
+#4 /home/logistic/public_html/resource/library/quantum/init.php(62): require('/home/logistic/...')
+#5 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#6 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:30:50 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/class/User.php(11): DB::getInstance()
+#3 /home/logistic/public_html/resource/library/quantum/environment_config.php(4): User->__construct()
+#4 /home/logistic/public_html/resource/library/quantum/init.php(62): require('/home/logistic/...')
+#5 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#6 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:30:54 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/class/User.php(11): DB::getInstance()
+#3 /home/logistic/public_html/resource/library/quantum/environment_config.php(4): User->__construct()
+#4 /home/logistic/public_html/resource/library/quantum/init.php(62): require('/home/logistic/...')
+#5 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#6 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:32:06 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/class/User.php(11): DB::getInstance()
+#3 /home/logistic/public_html/resource/library/quantum/environment_config.php(4): User->__construct()
+#4 /home/logistic/public_html/resource/library/quantum/init.php(62): require('/home/logistic/...')
+#5 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#6 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[29-Nov-2017 15:33:31 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/index.php(1): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13

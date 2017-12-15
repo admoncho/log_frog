@@ -1,0 +1,2 @@
+<div class="alert alert-info">
+	<i class="fa fa-info-circle fa-fw fa-lg"></i>

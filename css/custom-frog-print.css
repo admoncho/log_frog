@@ -1,0 +1,5 @@
+/* Custom file (Steven) */
+
+@media print {
+  #header, .page-title, #sidebar, #invoice-back-button {display: none ! important;}
+}

@@ -1,0 +1,140 @@
+[21-Dec-2016 20:07:00 America/Chicago] PHP Parse error:  syntax error, unexpected '' class="hidden"'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/logistic/public_html/_q/dashboard/core/ppg_category.php on line 48
+[21-Dec-2016 20:14:52 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/logistic/public_html/_q/resource/library/quantum/module/core/controller/ppg_category.php on line 62
+[14-Feb-2017 15:35:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logistic/public_html/_q/dashboard/core/ppg.php:7) in /home/logistic/public_html/_q/resource/library/quantum/init.php on line 3
+[14-Feb-2017 15:35:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/_q/dashboard/core/ppg.php:7) in /home/logistic/public_html/_q/resource/library/quantum/class/Redirect.php on line 15
+[24-Jul-2017 11:22:29 America/Chicago] PHP Warning:  move_uploaded_file(/home/logistic/public_htmlppg/packet--rios-trucking.pdf): failed to open stream: No such file or directory in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[24-Jul-2017 11:22:29 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpb1981t' to '/home/logistic/public_htmlppg/packet--rios-trucking.pdf' in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[24-Jul-2017 11:22:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php:99) in /home/logistic/public_html/resource/library/quantum/class/Redirect.php on line 15
+[24-Jul-2017 23:06:28 America/Chicago] PHP Warning:  move_uploaded_file(/home/logistic/public_htmlppg/packet--villanueva-trucking-llc.pdf): failed to open stream: No such file or directory in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[24-Jul-2017 23:06:28 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEHGz1z' to '/home/logistic/public_htmlppg/packet--villanueva-trucking-llc.pdf' in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[24-Jul-2017 23:06:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php:99) in /home/logistic/public_html/resource/library/quantum/class/Redirect.php on line 15
+[24-Jul-2017 23:06:45 America/Chicago] PHP Warning:  move_uploaded_file(/home/logistic/public_htmlppg/packet--villanueva-trucking-llc.pdf): failed to open stream: No such file or directory in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[24-Jul-2017 23:06:45 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLjK2lv' to '/home/logistic/public_htmlppg/packet--villanueva-trucking-llc.pdf' in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[24-Jul-2017 23:06:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php:99) in /home/logistic/public_html/resource/library/quantum/class/Redirect.php on line 15
+[25-Jul-2017 16:04:27 America/Chicago] PHP Warning:  move_uploaded_file(/home/logistic/public_htmlppg/packet--villanueva-trucking-llc.pdf): failed to open stream: No such file or directory in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[25-Jul-2017 16:04:27 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAafxjF' to '/home/logistic/public_htmlppg/packet--villanueva-trucking-llc.pdf' in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[25-Jul-2017 16:04:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php:99) in /home/logistic/public_html/resource/library/quantum/class/Redirect.php on line 15
+[26-Jul-2017 23:16:02 America/Chicago] PHP Warning:  move_uploaded_file(/home/logistic/public_htmlppg/packet--villanueva-trucking-llc.pdf): failed to open stream: No such file or directory in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[26-Jul-2017 23:16:02 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoAVVox' to '/home/logistic/public_htmlppg/packet--villanueva-trucking-llc.pdf' in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[26-Jul-2017 23:16:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php:99) in /home/logistic/public_html/resource/library/quantum/class/Redirect.php on line 15
+[26-Jul-2017 23:17:02 America/Chicago] PHP Warning:  move_uploaded_file(/home/logistic/public_htmlppg/packet--villanueva-trucking-llc.pdf): failed to open stream: No such file or directory in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[26-Jul-2017 23:17:02 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9GugPW' to '/home/logistic/public_htmlppg/packet--villanueva-trucking-llc.pdf' in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[26-Jul-2017 23:17:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php:99) in /home/logistic/public_html/resource/library/quantum/class/Redirect.php on line 15
+[26-Jul-2017 23:29:05 America/Chicago] PHP Warning:  move_uploaded_file(/home/logistic/public_htmlppg/packet--villanueva-trucking-llc.pdf): failed to open stream: No such file or directory in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[26-Jul-2017 23:29:05 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpS7tLLn' to '/home/logistic/public_htmlppg/packet--villanueva-trucking-llc.pdf' in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[26-Jul-2017 23:29:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php:99) in /home/logistic/public_html/resource/library/quantum/class/Redirect.php on line 15
+[26-Jul-2017 23:31:12 America/Chicago] PHP Warning:  move_uploaded_file(/home/logistic/public_html/ppg/packet--villanueva-trucking-llc.pdf): failed to open stream: No such file or directory in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[26-Jul-2017 23:31:12 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpK2mnip' to '/home/logistic/public_html/ppg/packet--villanueva-trucking-llc.pdf' in /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php on line 99
+[26-Jul-2017 23:31:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/logistic/public_html/resource/library/quantum/module/core/controller/ppg.php:99) in /home/logistic/public_html/resource/library/quantum/class/Redirect.php on line 15
+[31-Aug-2017 11:30:47 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[31-Aug-2017 11:30:52 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[31-Aug-2017 11:33:57 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[31-Aug-2017 11:34:03 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[22-Sep-2017 15:11:32 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[11-Oct-2017 08:31:30 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[12-Oct-2017 12:19:42 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[25-Oct-2017 08:13:58 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[25-Oct-2017 08:14:11 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:34:14 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:34:16 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:34:25 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:35:18 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
+[14-Nov-2017 10:35:20 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/logistic/public_html/resource/library/quantum/class/DB.php:13
+Stack trace:
+#0 /home/logistic/public_html/resource/library/quantum/class/DB.php(13): PDO->__construct('mysql:host=127....', 'logistic_qmonke...', '.]QgV?h17~85')
+#1 /home/logistic/public_html/resource/library/quantum/class/DB.php(22): DB->__construct()
+#2 /home/logistic/public_html/resource/library/quantum/init.php(43): DB::getInstance()
+#3 /home/logistic/public_html/dashboard/core/ppg.php(10): require('/home/logistic/...')
+#4 {main}
+  thrown in /home/logistic/public_html/resource/library/quantum/class/DB.php on line 13
