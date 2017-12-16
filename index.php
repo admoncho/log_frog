@@ -1,7 +1,7 @@
 <?php 
 session_start();
 ob_start();
-$_SESSION['HtmlSubfolder'] = "/";
+$_SESSION['HtmlSubfolder'] = "/asdasdsa";
 $_SESSION['IndexLocation'] = "/log_frog";
 $_SESSION['href_location'] = "/log_frog/";
 $_SESSION['HtmlDelimiter'] = "";
