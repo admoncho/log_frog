@@ -21,8 +21,8 @@ $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SER
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Google fonts - (more info: https://www.google.com/fonts) -->
-    <link href="//fonts.googleapis.com/css?family=Oswald:400,700,300" rel="stylesheet" type="text/css">
-    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Oswald:400,700,300" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
 
     <!-- Libs and Plugins CSS -->
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css"> <!-- bootstrap CSS (more info: http://getbootstrap.com) -->
@@ -47,7 +47,7 @@ $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SER
 
     <!-- GOOGLE MAP DATA FROM https://www.labnol.org/internet/embed-google-maps-background/28457/ -->
     <!-- <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script> -->
-    <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyC0PAkIoMfYljc4Hw-NZLHyomYacy8MmmQ&callback=initMap"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0PAkIoMfYljc4Hw-NZLHyomYacy8MmmQ&callback=initMap"></script>
 
     <style>
     #googlemaps {
@@ -151,7 +151,7 @@ $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SER
 
         <!-- Socials icons (replace "http://link.com" widh your own link) -->
         <div class="social-icons">
-          <a href="//www.facebook.com/themetorium" target="_blank"><i class="fa fa-facebook-square"></i></a>
+          <a href="https://www.facebook.com/themetorium" target="_blank"><i class="fa fa-facebook-square"></i></a>
         </div>
 
       </div>
@@ -670,7 +670,7 @@ $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SER
 
                 <a href="<?= $_SESSION['href_location'] ?>terms-and-conditions" class="btn btn-link">Terms and Conditions</a>
 
-                <form action="//www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                   
                   <input type="hidden" name="cmd" value="_s-xclick">
                   <input type="hidden" name="hosted_button_id" value="6G79FJJCE5M3S">
@@ -691,8 +691,8 @@ $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SER
                     </tr>
                   </table>
                   <input type="hidden" name="currency_code" value="USD">
-                  <input type="image" src="//www.paypalobjects.com/es_XC/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                  <img alt="" border="0" src="//www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+                  <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
                 </form>
 
               </div> <!-- /.col-inner -->
