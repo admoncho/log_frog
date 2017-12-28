@@ -3,7 +3,7 @@ session_start();
 ob_start();
 $_SESSION['HtmlSubfolder'] = "/";
 $_SESSION['IndexLocation'] = "/log_frog";
-$_SESSION['href_location'] = "/log_frog/";
+$_SESSION['href_location'] = "/";
 $_SESSION['HtmlDelimiter'] = "";
 $_SESSION['ProjectPath'] = $_SERVER['DOCUMENT_ROOT'] . "/log_frog";
 $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SERVER['PHP_SELF']);
