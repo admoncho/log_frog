@@ -726,10 +726,8 @@ $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SER
     <a href="#" class="scrolltotop hidden-xs"><i class="fa fa-arrow-up"></i></a>
 
     <!-- Libs and Plugins JS -->
-    <script
-    src="https://code.jquery.com/jquery-3.2.1.min.js"
-    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-    crossorigin="anonymous"></script>
+    
+    <script src="<?= $_SESSION['href_location'] ?>vendor/jquery/jquery-1.11.1.min.js"></script> <!-- jquery JS (more info: https://jquery.com) -->
     <script src="<?= $_SESSION['href_location'] ?>vendor/bootstrap/js/bootstrap.min.js"></script> <!-- bootstrap JS (more info: http://getbootstrap.com) -->
     <script src="<?= $_SESSION['href_location'] ?>vendor/jquery.easing.min.js"></script> <!-- jquery easing JS (more info: http://gsgd.co.uk/sandbox/jquery/easing) -->
     <script src="<?= $_SESSION['href_location'] ?>vendor/jquery.stellar.min.js"></script> <!-- parallax JS (more info: http://markdalgleish.com/projects/stellar.js) -->
