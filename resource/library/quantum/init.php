@@ -2,11 +2,11 @@
 session_start();
 ob_start();
 
-$user = 'logistic_qmonkey';
-$password = '.]QgV?h17~85';
+$user = 'beaeda1956a42a';
+$password = '70d9d374';
 $db = 'logistic_quantum';
-$host = 'localhost';
-$port = 8889;
+$host = 'us-cdbr-azure-northcentral-b.cloudapp.net';
+$port = 3306;
 
 $link = mysqli_init();
 $success = mysqli_real_connect(
@@ -21,11 +21,11 @@ $success = mysqli_real_connect(
 # Create a global configuration
 $GLOBALS['config'] = array(
 	'mysql' => array(
-		'host' 		=> '127.0.0.1', 
-		'username' 	=> 'logistic_qmonkey', 
-		'password' 	=> '.]QgV?h17~85',
-		'db' 		=> 'logistic_quantum',
-                'port'          => '8889'
+		'host' 		=> $host, 
+		'username' 	=> $user, 
+		'password' 	=> $password,
+		'db' 		=> $db,
+                'port'          => $port
 	),
 	'remember' => array(
 		'cookie_name'	=> 'hash',
