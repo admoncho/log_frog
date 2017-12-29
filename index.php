@@ -20,10 +20,10 @@ $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SER
     <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Google fonts - (more info: https://www.google.com/fonts) 
+    <!-- Google fonts - (more info: https://www.google.com/fonts) -->
     <link href="https//fonts.googleapis.com/css?family=Oswald:400,700,300" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
-    -->
+    
     
     <!-- Libs and Plugins CSS -->
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css"> <!-- bootstrap CSS (more info: http://getbootstrap.com) -->
@@ -48,8 +48,10 @@ $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SER
 
     <!-- GOOGLE MAP DATA FROM https://www.labnol.org/internet/embed-google-maps-background/28457/ -->
     <!-- <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script> -->
+    <!--
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0PAkIoMfYljc4Hw-NZLHyomYacy8MmmQ&callback=initMap"></script>
-
+    -->
+    
     <style>
     #googlemaps {
         height: 100%;
@@ -745,42 +747,7 @@ $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SER
     <!-- Theme custom JS (all your JS customizations) -->
     <script src="<?= $_SESSION['href_location'] ?>js/custom.js"></script>
 
-    <script>
-
-      /*setTimeout(function () {
-        
-        $('#myModal').modal('show');
-      }, 7000);*/
-
-      var position = [40.728458, -74.274455];
-
-      function initialize() {
-
-        var myOptions = {
-          zoom: 10,
-          streetViewControl: true,
-          scaleControl: true,
-          mapTypeId: google.maps.MapTypeId.ROADMAP
-        };
-
-        map = new google.maps.Map(document.getElementById('googlemaps'),
-            myOptions);
-
-
-        latLng = new google.maps.LatLng(position[0], position[1]);
-
-        map.setCenter(latLng);
-
-        marker = new google.maps.Marker({
-          position: latLng,
-          map: map,
-          draggable: false,
-          animation: google.maps.Animation.DROP
-        });
-      }
-
-      google.maps.event.addDomListener(window, 'load', initialize);
-    </script>
+    
   </body>
 
 </html>
