@@ -21,7 +21,7 @@ $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SER
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Google fonts - (more info: https://www.google.com/fonts) -->
-    <link href="https://fonts.googleapis.com/css?family=Oswald:400,700,300" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Oswald:400,700,300" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
 
     <!-- Libs and Plugins CSS -->
