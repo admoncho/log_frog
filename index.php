@@ -26,7 +26,7 @@ $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SER
     -->
     
     <!-- Libs and Plugins CSS -->
-    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css"> <!-- bootstrap CSS (more info: http://getbootstrap.com) -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> <!-- bootstrap CSS (more info: http://getbootstrap.com) -->
     <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css"> <!-- Font Icons (more info: http://fortawesome.github.io/Font-Awesome) -->
     <link rel="stylesheet" href="vendor/ytplayer/css/jquery.mb.YTPlayer.min.css"> <!-- YTPlayer CSS (more info: https://github.com/pupunzi/jquery.mb.YTPlayer) -->
     <link rel="stylesheet" href="vendor/magnific-popup/css/magnific-popup.css"> <!-- Magnific Popup CSS (more info: http://dimsemenov.com/plugins/magnific-popup/) -->
@@ -728,7 +728,7 @@ $_SESSION['$clean_php_self'] = str_replace($_SESSION['IndexLocation'], "", $_SER
     <!-- Libs and Plugins JS -->
     
     <script src="<?= $_SESSION['href_location'] ?>vendor/jquery/jquery-1.11.1.min.js"></script> <!-- jquery JS (more info: https://jquery.com) -->
-    <script src="<?= $_SESSION['href_location'] ?>vendor/bootstrap/js/bootstrap.min.js"></script> <!-- bootstrap JS (more info: http://getbootstrap.com) -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> <!-- bootstrap JS (more info: http://getbootstrap.com) -->
     <script src="<?= $_SESSION['href_location'] ?>vendor/jquery.easing.min.js"></script> <!-- jquery easing JS (more info: http://gsgd.co.uk/sandbox/jquery/easing) -->
     <script src="<?= $_SESSION['href_location'] ?>vendor/jquery.stellar.min.js"></script> <!-- parallax JS (more info: http://markdalgleish.com/projects/stellar.js) -->
     <script src="<?= $_SESSION['href_location'] ?>vendor/smoothscroll.js"></script> <!-- smoothscroll JS (more info: https://gist.github.com/theroyalstudent/4e6ec834be19bf077298/) -->
